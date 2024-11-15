@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Luuh/static/css/main.01fee50a.css",
+    "main.js": "/Luuh/static/js/main.96079589.js",
+    "static/js/488.6e780753.chunk.js": "/Luuh/static/js/488.6e780753.chunk.js",
+    "static/media/download3.jpeg": "/Luuh/static/media/download3.57a5151ebf6efe4a86a8.jpeg",
+    "static/media/download2.jpeg": "/Luuh/static/media/download2.e4cf639115ff336cbc28.jpeg",
+    "static/media/download1.jpeg": "/Luuh/static/media/download1.453e776711f976d6e961.jpeg",
+    "index.html": "/Luuh/index.html",
+    "main.01fee50a.css.map": "/Luuh/static/css/main.01fee50a.css.map",
+    "main.96079589.js.map": "/Luuh/static/js/main.96079589.js.map",
+    "488.6e780753.chunk.js.map": "/Luuh/static/js/488.6e780753.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01fee50a.css",
+    "static/js/main.96079589.js"
+  ]
+}
